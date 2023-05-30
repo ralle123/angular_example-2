@@ -1,0 +1,30 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  table {
+    width: 100%;
+  }
+  
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 30%;
+  }
+
+  .main_body{
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 1348px;
+  }
+
+  .mat-column-action {
+    white-space: nowrap;
+  }
+
+  .mat-column-hire {
+    white-space: nowrap;
+  }
